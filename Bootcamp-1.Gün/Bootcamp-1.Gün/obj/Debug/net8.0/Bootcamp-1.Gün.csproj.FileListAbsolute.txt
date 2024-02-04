@@ -1,0 +1,14 @@
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\obj\Debug\net8.0\Bootcamp-1.Gün.GeneratedMSBuildEditorConfig.editorconfig
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\obj\Debug\net8.0\Bootcamp-1.Gün.AssemblyInfoInputs.cache
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\obj\Debug\net8.0\Bootcamp-1.Gün.AssemblyInfo.cs
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\obj\Debug\net8.0\Bootcamp-1.Gün.csproj.CoreCompileInputs.cache
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\bin\Debug\net8.0\Bootcamp-1.Gün.exe
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\bin\Debug\net8.0\Bootcamp-1.Gün.deps.json
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\bin\Debug\net8.0\Bootcamp-1.Gün.runtimeconfig.json
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\bin\Debug\net8.0\Bootcamp-1.Gün.dll
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\bin\Debug\net8.0\Bootcamp-1.Gün.pdb
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\obj\Debug\net8.0\Bootcamp-1.Gün.dll
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\obj\Debug\net8.0\refint\Bootcamp-1.Gün.dll
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\obj\Debug\net8.0\Bootcamp-1.Gün.pdb
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\obj\Debug\net8.0\Bootcamp-1.Gün.genruntimeconfig.cache
+M:\Projects\Bootcamp-1.Gün\Bootcamp-1.Gün\obj\Debug\net8.0\ref\Bootcamp-1.Gün.dll
